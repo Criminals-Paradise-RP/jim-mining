@@ -4,11 +4,11 @@ Loc = {}
 
 Config = {
 	Debug = false, -- enable debug mode
-	img = "qb-inventory/html/images/", --Set this to the image directory of your inventory script or "nil" if using newer qb-menu
+	img = "ps-inventory/html/images/", --Set this to the image directory of your inventory script or "nil" if using newer qb-menu
 
 	Lan = "en", -- Pick your language here
 
-	JimShops = false, 		-- Set this to true if using jim-shops
+	JimShops = true, 		-- Set this to true if using jim-shops
 
 	Inv = "qb",				--"qb" or "ox"
 	Menu = "qb",			--"qb" or "ox"
